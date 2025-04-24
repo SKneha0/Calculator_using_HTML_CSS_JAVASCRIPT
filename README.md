@@ -5,10 +5,11 @@ A **Simple Calculator** built using **HTML**, **CSS**, and **JavaScript**. This 
 ## ✨ Features
 
 - ✅ Addition, Subtraction, Multiplication, Division
-- 🧮 Clear (`C`) and Delete (`DEL`) functionality
+- 🔄 All Clear (`AC`) and Delete (`DEL`) functionality
 - ⚡ Real-time input and output display
 - 💻 Keyboard and Mouse input support (optional)
 - 🎨 Responsive design with smooth UI
+
 
 ---
 
